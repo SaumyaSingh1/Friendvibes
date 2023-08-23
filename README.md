@@ -43,7 +43,7 @@ Empowered by Express.js, Bcrypt.js, CORS, JWT, MongoDB, Mongoose, and Nodemon, t
 #### Clone the Excitement:
 + bash
 + Copy code
-+ git clone https://github.com/your-username/Friendvibes.git
++ git clone https://github.com/SaumyaSingh1/Friendvibes.git
 + cd Friendvibes
 
 #### Ignite the Frontend:
