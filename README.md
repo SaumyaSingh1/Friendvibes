@@ -31,6 +31,8 @@ Unfollow users if their content no longer resonates with you, keeping your feed 
 When it's time to disconnect, log out securely to ensure your Friendvibes experience is just the way you want it.
 
 - ## Power-Packed Technologies Fueling the Magic
+- ## ES Modules
+This project utilizes ES modules (ECMAScript modules) to structure and organize the code. ES modules provide a clean and efficient way to manage dependencies and keep the codebase modular.
 - ### Frontend Enchantment:
    Crafted with React.js, React Router DOM, and React Toastify, our frontend ensures a smooth and immersive user experience.
 
