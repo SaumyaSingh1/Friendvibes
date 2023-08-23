@@ -4,7 +4,7 @@ Welcome to Friendvibes, a project that brings the excitement of core functionali
 ## Key Features that Ignite Your Experience
 * User Authentication:Seamlessly sign up to create your unique account using a password that meets the strength criteria. Your security matters to us!
 
-* (#### Unleash Your Creativity:) Share your precious moments by effortlessly posting images that capture the essence of your life's journey.
+* #### Unleash Your Creativity: Share your precious moments by effortlessly posting images that capture the essence of your life's journey.
 
 - #### Showcase Your Style:
 Add that perfect touch of personalization by uploading and updating your profile picture as you evolve.
