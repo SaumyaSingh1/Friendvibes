@@ -2,22 +2,22 @@
 Welcome to Friendvibes, a project that brings the excitement of core functionalities of social media sites right to your fingertips! Dive into a world of seamless user authentication, stunning image sharing, dynamic profile management, and engaging social interactions that will keep you hooked. Get ready to embark on a journey where you can create, explore, connect, and engage like never before.
 
 ## **Key Features that Ignite Your Experience**
-### * User Authentication:
++ ** User Authentication:**
 Seamlessly sign up to create your unique account using a password that meets the strength criteria. Your security matters to us!
 
-### * Unleash Your Creativity:
++ ** Unleash Your Creativity:**
 Share your precious moments by effortlessly posting images that capture the essence of your life's journey.
 
-### * Showcase Your Style:
++ ** Showcase Your Style:**
 Add that perfect touch of personalization by uploading and updating your profile picture as you evolve.
 
-### * Own Your Space:
+ + ** Own Your Space:**
 Regain control over your content by removing posts that no longer resonate with you.
 
-### * Connect and Engage:
++ ** Connect and Engage:**
 Forge meaningful connections by following other users, exploring their posts, and engaging with their content.
 
-### * Heartfelt Interactions:
++ ** Heartfelt Interactions:**
   Express your appreciation by liking posts that inspire you, and easily undo that 'like' if you change your mind.
 
 ### * Unveil Your Thoughts:
