@@ -1,8 +1,8 @@
-🌟 **Friendvibes: Experience the Thrill of Social Interaction!** 🚀
+# Friendvibes: Experience the Thrill of Social Interaction! 🚀
 
 **Welcome to Friendvibes**, a visionary project that places the vibrant pulse of social media functionalities right at your fingertips! Prepare to dive headfirst into a realm where seamless user authentication, breathtaking image sharing, dynamic profile management, engaging social interactions, and responsive design converge to create an addictive experience. Embark on a journey where you can unleash your creativity, explore boundless horizons, connect with like-minded souls, and engage in ways that redefine interaction.
 
-**Key Features that Ignite Your Experience**
+## Key Features that Ignite Your Experience
 
 🔐 **User Authentication:** Seamlessly sign up to create your unique account, fortified by a password that meets stringent strength criteria. Your security is our utmost priority – enter a space where you can share, connect, and engage with confidence.
 
@@ -30,7 +30,7 @@
 
 🔗 **JSON Data Exchange:** Experience the convenience of JSON as the language for data exchange, facilitating efficient communication across the platform's components.
 
-**Power-Packed Technologies Fueling the Magic**
+### Power-Packed Technologies Fueling the Magic
 
 ⚙️ **ES Modules:** This project employs ES modules (ECMAScript modules) for code organization, providing a clean and efficient way to manage dependencies and keep the codebase modular.
 
