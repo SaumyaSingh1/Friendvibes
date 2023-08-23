@@ -38,6 +38,8 @@
 
 🛠️ **Backend Brilliance:** Empowered by Express.js, bcrypt, CORS, JWT, MongoDB, Mongoose, and Nodemon, our backend seamlessly manages complexities behind the scenes.
 
+☁️ **Cloudinary Integration:** By integrating Cloudinary, I've elevated image management capabilities, allowing for seamless image uploads and optimizations.
+
 - ### Set the Stage: Get Ready to Be Captivated
 #### Clone the Excitement:
 + bash
