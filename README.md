@@ -58,7 +58,7 @@
 + cd backend
 + npm install
 + npm start
-#### Join the Friendvibes Community!
+## Join the Friendvibes Community!
 Whether you're an aspiring influencer, a creative content creator, or just someone looking to explore the world through the eyes of others, Friendvibes welcomes you with open arms. Come, experience the thrill of social interaction in a vibrant, dynamic, and captivating environment. Let's connect, engage, and explore together!
 Are you ready to immerse yourself in the Friendvibes experience? Join us and embrace a world of creativity, connection, and limitless possibilities! Customize this README to reflect your project's unique vibe, and share the excitement with the world.
 
