@@ -37,7 +37,7 @@ When it's time to disconnect, log out securely to ensure your Friendvibes experi
    Crafted with React.js, React Router DOM, and React Toastify, our frontend ensures a smooth and immersive user experience.
 
 - #### Backend Brilliance:
-Empowered by Express.js, Bcrypt.js, CORS, JWT, MongoDB, Mongoose, and Nodemon, the backend seamlessly handles the complexities behind the scenes.
+Empowered by Express.js, bcrypt, CORS, JWT, MongoDB, Mongoose, and Nodemon, the backend seamlessly handles the complexities behind the scenes.
 
 - ### Set the Stage: Get Ready to Be Captivated
 #### Clone the Excitement:
