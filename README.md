@@ -39,7 +39,7 @@
 🛠️ **Backend Brilliance:** Empowered by Express.js, bcrypt, CORS, JWT, MongoDB, Mongoose, and Nodemon, our backend seamlessly manages complexities behind the scenes.
 
 - ### Set the Stage: Get Ready to Be Captivated
-🔥 #### Clone the Excitement:
+#### Clone the Excitement:
 + bash
 + Copy code
 + git clone https://github.com/SaumyaSingh1/Friendvibes.git
