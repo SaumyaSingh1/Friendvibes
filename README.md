@@ -30,7 +30,7 @@ Explore the diverse world of content created by others and get inspired by their
 Unfollow users if their content no longer resonates with you, keeping your feed curated to your preferences.
 
 - ### Seamless Logout:
-When it's time to disconnect, log out securely to ensure your InstaClone experience is just the way you want it.
+When it's time to disconnect, log out securely to ensure your Friendvibes experience is just the way you want it.
 
 - ## Power-Packed Technologies Fueling the Magic
 - ### Frontend Enchantment:
@@ -61,7 +61,7 @@ Empowered by Express.js, Bcrypt.js, CORS, JWT, MongoDB, Mongoose, and Nodemon, t
 + npm start
 #### Join the Friendvibes Community!
 Whether you're an aspiring influencer, a creative content creator, or just someone looking to explore the world through the eyes of others, Friendvibes welcomes you with open arms. Come, experience the thrill of social interaction in a vibrant, dynamic, and captivating environment. Let's connect, engage, and explore together!
-Are you ready to immerse yourself in the InstaClone experience? Join us and embrace a world of creativity, connection, and limitless possibilities! Customize this README to reflect your project's unique vibe, and share the excitement with the world.
+Are you ready to immerse yourself in the Friendvibes experience? Join us and embrace a world of creativity, connection, and limitless possibilities! Customize this README to reflect your project's unique vibe, and share the excitement with the world.
 
 
 
