@@ -150,7 +150,7 @@ export default function Createpost() {
         .catch((error) => {
           console.error("Error fetching data:", error);
         });
-      fetch(`//createPost`, {
+      fetch(`//${window.location.hostname}/createPost`, {
         method: "post",
         headers: {
           "Content-Type": "application/json",
