@@ -150,7 +150,7 @@ export default function Createpost() {
         .catch((error) => {
           console.error("Error fetching data:", error);
         });
-      fetch(`https://friendvibesbackend.onrender.com/createPost`, {
+      fetch(`//createPost`, {
         method: "post",
         headers: {
           "Content-Type": "application/json",
